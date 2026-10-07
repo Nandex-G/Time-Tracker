@@ -1,0 +1,2 @@
+date,total_time,total_hours,connected_to,connected_to_id,sessions
+2026-09-25,0:00:30,< 0.01,running,1,"[{'start': '2026-09-25 18:51:55', 'end': '2026-09-25 18:52:25'}]"
